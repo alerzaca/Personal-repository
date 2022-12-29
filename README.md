@@ -6,7 +6,7 @@ alerzaca here.
 
 :musical_keyboard: Non-professional musician/producer
 
-:clipboard: https://alerzaca.github.io/alerzaca/
+:clipboard: https://alerzaca.github.io
 
 <img src="https://vectorflags.s3.amazonaws.com/flags/org-lgbt-button-01.png" width="20" height="20"/> <img src="https://vectorflags.s3.amazonaws.com/flags/pl-button-01.png" width="20" height="20" />  <img src="https://vectorflags.s3.amazonaws.com/flags/uk-button-01.png" width="20" height="20" />  <img src="https://vectorflags.s3.amazonaws.com/flags/ru-button-01.png" width="20" height="20" />  <img src="https://vectorflags.s3.amazonaws.com/flags/es-button-01.png" width="20" height="20"/>
 
