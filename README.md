@@ -19,3 +19,5 @@ alerzaca here.
 Repozytorium: https://github.com/alerzaca/Paint-by-Example
 
 Artykuł: https://arxiv.org/pdf/2211.13227v1.pdf
+
+Strona Papers with Code: https://paperswithcode.com/paper/paint-by-example-exemplar-based-image-editing
