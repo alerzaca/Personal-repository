@@ -8,6 +8,8 @@ alerzaca here.
 
 :clipboard: https://alerzaca.github.io
 
+:computer: https://www.hackerrank.com/arzaca
+
 <img src="https://vectorflags.s3.amazonaws.com/flags/org-lgbt-button-01.png" width="20" height="20"/> <img src="https://vectorflags.s3.amazonaws.com/flags/pl-button-01.png" width="20" height="20" />  <img src="https://vectorflags.s3.amazonaws.com/flags/uk-button-01.png" width="20" height="20" />  <img src="https://vectorflags.s3.amazonaws.com/flags/ru-button-01.png" width="20" height="20" />  <img src="https://vectorflags.s3.amazonaws.com/flags/es-button-01.png" width="20" height="20"/>
 
 ## Skills, languages & tools:
