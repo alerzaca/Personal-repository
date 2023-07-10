@@ -1,2 +1,2 @@
-:book: Student at: AGH University of Science and Technology
+Student at AGH University of Science and Technology
 
