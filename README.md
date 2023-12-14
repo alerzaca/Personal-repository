@@ -6,6 +6,7 @@ Student at [AGH University of Krakow](https://en.wikipedia.org/wiki/AGH_Universi
 ![Win](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![VS](https://img.shields.io/badge/VSCode-0053a6?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![C](https://img.shields.io/badge/C-211f99?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-3C2464.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ![HTML](https://img.shields.io/badge/HTML5-d62f2f?style=for-the-badge&logo=html5&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-f3a126.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -13,6 +14,7 @@ Student at [AGH University of Krakow](https://en.wikipedia.org/wiki/AGH_Universi
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![VMbox](https://img.shields.io/badge/VirtualBox-0021a6?style=for-the-badge&logo=VirtualBox&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-2d2c85?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-2C173C.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ![SC](https://img.shields.io/badge/SoundCloud-e34c26?style=for-the-badge&logo=soundcloud&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-ff8b26?style=for-the-badge&logo=googlecolab&color=ff9d26&logoColor=FFFFFF)
@@ -20,6 +22,5 @@ Student at [AGH University of Krakow](https://en.wikipedia.org/wiki/AGH_Universi
 ![Kali](https://img.shields.io/badge/Kali_Linux-0077a6?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-0232b8?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Ableton Live](https://img.shields.io/static/v1?style=for-the-badge&message=Ableton+Live&color=1a1a47&logo=Ableton+Live&logoColor=FFFFFF&label=)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=github_dark_dimmed&username=alerzaca&hide_progress=false)
